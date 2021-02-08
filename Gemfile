@@ -65,6 +65,6 @@ gem 'bootstrap', '~> 4.5.0'
 gem 'jquery-rails'
 gem 'haml-rails'
 gem 'devise'
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 gem 'mini_magick'
 gem 'pg', group: :production
